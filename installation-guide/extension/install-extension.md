@@ -7,7 +7,7 @@ If you haven't installed a userscript extension yet, you'll need to do so to use
    - [Microsoft Edge](all-userscript-extension.md)
 
    if you know how to install a extension follow this link:
-   [download link](https://violentmonkey.github.io/)
+   [download link](https://violentmonkey.github.io/#installation)
 
 2. Once you've installed the userscript extension, come back here and proceed with the userscript installation.
 
