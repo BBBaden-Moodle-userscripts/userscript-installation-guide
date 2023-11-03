@@ -3,7 +3,7 @@
 [START](installation-guide/start.md)
 
 
-# ⚠️ Security Warning ⚠️
+# :warning: Security Warning :warning:
 
 Tampermonkey and Greasemonkey are browser extensions that can execute additional scripts on web pages. This can be maliciously exploited, so only scripts from trusted sources should be installed! Be aware about the information that can be read by these scripts.
 
