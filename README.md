@@ -1,26 +1,48 @@
-# Quick Guide to Installing Userscripts
-[![Static Badge](https://img.shields.io/badge/get_started-now-green?style=for-the-badge)](installation-guide/start.md)
+# **Quick Guide to Installing Userscripts**  
+[![Get Started Now](https://img.shields.io/badge/get_started-now-green?style=for-the-badge)](installation-guide/start.md)
 
-# :warning: Security Warning :warning:
+---
 
-Violentmonkey and Tampermonkey are browser extensions that can execute additional scripts on web pages. This can be maliciously exploited, so only scripts from trusted sources should be installed! Be aware of the information that can be accessed by these scripts.
+## ⚠️ **Security Warning!** ⚠️
 
-# What Are Userscripts?
+**Violentmonkey** and **Tampermonkey** are powerful browser extensions that allow userscripts to execute on web pages. However, they can be exploited maliciously, so it is critical to **only install scripts from trusted sources**. Be mindful of the data that scripts can access and modify!
 
-Userscripts are small, custom scripts written in JavaScript that enable you to modify the behavior and appearance of websites you visit. They are powerful browser extensions that give you the ability to tailor your online experience to your preferences.
+---
 
-Userscripts can perform various tasks, such as:
-- Adding new features and functionalities to websites.
-- Automating repetitive tasks.
-- Restyling web pages to improve readability or aesthetics.
-- Enhancing the user interface of web applications.
+## ✨ **What Are Userscripts?**
 
-Userscripts are typically designed and shared by the online community to address specific needs or enhance popular websites and web applications. They offer a flexible way to personalize your browsing experience and make the web work better for you.
+Userscripts are custom JavaScript files that modify the appearance and functionality of websites. These scripts allow you to **customize your web browsing experience**, adding new features, automating tasks, and improving the overall user interface.
 
-[More Information (Wikipedia)](https://en.wikipedia.org/wiki/Userscript)
+### Some examples of what userscripts can do:
+- **Add new features** to websites that enhance functionality.
+- **Automate repetitive tasks** (e.g., filling out forms).
+- **Restyle pages** to improve readability or aesthetics.
+- **Enhance user interfaces** for web applications.
 
-# Getting Started with Programming Userscripts
+These scripts are typically created by the community to enhance and personalize websites, making the internet work the way **you want** it to.
 
-To start programming your own userscripts, you should understand that userscript files should end with `.user.js`. This extension is important because it signals to Violentmonkey or Tampermonkey that this file is a userscript and should be treated as such.
+[**Learn more on Wikipedia**](https://en.wikipedia.org/wiki/Userscript)
 
-For a comprehensive guide on how to program userscripts, you can refer to the official [Tampermonkey documentation](https://www.tampermonkey.net/documentation.php) or [Violentmonkey documentation](https://violentmonkey.github.io/guide/) depending on the browser extension you are using. These documentations cover everything from basic usage to advanced features, serving as valuable resources for both beginners and advanced userscript developers.
+---
+
+## 🛠️ **Getting Started with Programming Userscripts**
+
+If you're interested in writing your own userscripts, they must have the `.user.js` extension. This extension signals to browser tools like **Violentmonkey** or **Tampermonkey** that the file is a userscript and should be treated accordingly.
+
+### Resources for Learning Userscript Programming:
+- **Tampermonkey Documentation:** [Getting Started Guide](https://www.tampermonkey.net/documentation.php)
+- **Violentmonkey Documentation:** [User Guide](https://violentmonkey.github.io/guide/)
+
+These guides will help you get up to speed, from basic userscript creation to more advanced programming techniques.
+
+---
+
+## 💡 **Pro Tips:**
+- **Test in Safe Environments:** Always test your scripts in safe environments to avoid any unexpected behavior.
+- **Use Version Control:** Keep track of changes in your scripts for better management.
+- **Share with the Community:** If you've created a great userscript, consider sharing it with others to improve the online experience!
+
+---
+
+**Ready to get started?**  
+Click the badge above to begin your userscript journey today! 🚀
