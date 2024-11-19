@@ -1,16 +1,22 @@
-# Userscript Installation Guide
+# **🚀 Userscript Installation Guide**  
+Before you begin, ensure that you have a **userscript extension** installed in your browser. If you haven’t installed one yet, follow the link below to get started.
 
-Before you begin, make sure you have a userscript extension installed in your browser. If you don't have one installed yet, you can follow the instructions to install it.
+[**🔧 Install Userscript Extension**](../extension/install-extension.md)
 
-[Install Extension](../extension/install-extension.md)  
-&nbsp;
+---
 
-## add a userscript
-![add-script](img/add-userscript.png)
+## **1. How to Add a Userscript**  
+Adding a userscript is easy! The quickest way to add a script is by using its **URL**. You can also install scripts directly from GitHub.
 
-The easiest way to add a userscript is by URL. You can install scripts from GitHub by following these steps: [Scripts from GitHub](add-scripts-from-github.md)
+### **Install Scripts from GitHub**  
+Follow these steps to install scripts from GitHub:  
+[**📂 Scripts from GitHub**](add-scripts-from-github.md)
 
+![Add Userscript](img/add-userscript.png)
 
-## update userscripts
-![update-script](img/update-userscripts.png)
-To update a userscript, simply press the circle button.
+---
+
+## **2. How to Update Your Userscripts**  
+Updating your userscripts is a breeze! Simply click the **circle button** to update your existing scripts to the latest version.
+
+![Update Userscript](img/update-userscripts.png)
